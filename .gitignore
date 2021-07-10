@@ -1,0 +1,12 @@
+.awcache/
+target/
+node_modules/
+.idea/
+*.iml
+.settings/
+.project
+.vscode/
+.classpath
+.factorypath
+.flattened-pom.xml
+
