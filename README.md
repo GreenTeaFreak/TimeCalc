@@ -1,5 +1,5 @@
 # TimeCalc
-antl4 playground for time calculation
+antlr4 playground for time calculation
 
 How to Run: 
 
